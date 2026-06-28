@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.tgubish.twa",
+        "sha256_cert_fingerprints": ["6F:A2:15:17:F8:5D:BD:6E:07:3E:98:8D:F7:FB:04:FE:3D:1C:EB:B6:B2:82:24:C3:4E:4F:C7:F6:93:BD:52:9F"]
+      }
+    }]
